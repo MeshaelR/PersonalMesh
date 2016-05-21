@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Modifying the Contact
+title: Cats
 category: tech
 tags: [ 'tutorial' ]
 ---
