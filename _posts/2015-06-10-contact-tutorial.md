@@ -6,19 +6,19 @@ category: tech
 tags: [ 'tutorial' ]
 ---
 
-The contact part of the index page is consisted of two elements:
+I AM BOOOOOOTYFUL
 
 <ol>
-  <li>Text</li>
-  <li>Your email address</li>
+  <li>cAT</li>
+  <li>nIP</li>
 </ol>
 
-You can modify the Contact text from the /contact.html file and set the email in the site config:
+I AM BOOTYFUL
 
 <pre><code data-trim class="yaml">
-email: "your@email.here"
+email: "Meshaelr@gmail.com" "Pretty testing"
 </code></pre>
 
 Don't be afraid of email harvesting, write your email properly and the page will perform javascript obfuscation.
 
-<small>Many thanks to <a href="https://github.com/joariasl" target="\_blank">@joariasl</a> for this feature!</small>
+<small>POOPOPPOPOPOPOPOPOPOPOPO MESH IS LIT</small>
