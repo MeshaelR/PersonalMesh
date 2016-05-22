@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Love Meshael and he might, strong emphasis on the might, love you back."
-  - text: "Mesh Is Lit, Why can't you be like him?"
+  - text: "Meshael's favorite product is a Tesla, that acceleration and lack of torque is phenomenal!"
+  - text: "Meshael can fight 14 armadillos while coding for his wedding."
   - text: "You need to be amazing like Meshael"
 
 me-img: "/img/timeline/me.jpg"
@@ -114,9 +114,14 @@ events:
     date: "January 2016 - Today"
     description: "McMaster MakerSpace Head - Virtual Reality!"
   - image: "/img/timeline/samsung.jpg"
-    date: "September 2014 - October 2015"
+    date: "December 2014 - October 2015"
     description: "Samsung Experience Consultant"
-
+  - image: "/img/timeline/mosaic.png"
+    date: "September 2014 - October 2015"
+    description: "Samsung Innovation Agent and Marketing Consultant"
+  - image: "/img/timeline/youtube.png"
+    date: "January 2010 - September 2015"
+    description: "Founder of PixelizedChaos - Gaining 20,000 + followers"
 # First image of the Timeline
 
 timeline-img: "/img/timeline/me.jpg"
@@ -135,7 +140,7 @@ email: "MeshaelR@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Pursuing a degree in Engineering at McMaster University. A highly enthusiastic analytical thinker and problem solver, lover of all things electronic and mechanical."
+author_blurb: "Meshael is a student pursuing a degree in Engineering at McMaster University. A highly enthusiastic analytical thinker and problem solver, lover of all things electronic and mechanical."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -144,13 +149,13 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/RahmanMeshael"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/FindTheMesh"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/MeshaelR"
   - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://blockchain.info"
   - title: "rss"
     url: "/feed.xml"
 
