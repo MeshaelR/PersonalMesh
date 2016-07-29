@@ -53,10 +53,10 @@ loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
-delete-delay: 6000
+delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Algorithm: Word used by programmers when they don't want to explain what they just did."
-  - text: "Programmer: A person who fixed a problem you didn't know you had in a way you don't understand."
+  - text: "Programmer: A person who fixed a problem you didn't know you had, in a way you don't understand."
   - text: "Computers are like air conditioners: they stop working when you open Windows."
 
 me-img: "/img/timeline/me.jpg"
@@ -112,7 +112,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/mcmaster.png"
+  - image: "/img/timeline/mcmaster1.png"
     date: "June 2016 - Today"
     description: "McMaster Engineering Alumni Web Developer & Content Manager"
   - image: "/img/timeline/delta.png"
