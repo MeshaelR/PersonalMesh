@@ -8,7 +8,11 @@ In alphabetical order:
   6. Jørn Ølmheim <jorn@olmheim.com>
   7. Kartik Arora <chipset95@yahoo.co.in>
   8. Marcus Eisele <marcus.eisele@gmail.com>
+<<<<<<< HEAD
   9. Meshael Rahman <meshaelr@gmail.com>
+=======
+  9. Mike Kasberg <kasberg.mike@gmail.com>
+>>>>>>> refs/remotes/PanosSakkos/master
   10. Nathan Jaremkio <njaremko@gmail.com>
   11. Panos Sakkos <panos.sakkos@protonmail.com>
   12. Prashant Solanki <prs.solanki@live.com>
